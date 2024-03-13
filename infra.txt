@@ -1,0 +1,3 @@
+Google Chrome
+Visual Studio Code
+NodeJS v10.* (ou superior)
